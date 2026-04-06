@@ -1,0 +1,5 @@
+{
+  "name": "Tata Engage Refactor",
+  "description": "A refactored version of the Tata Engage application built with React, Vite, and shadcn/ui.",
+  "requestFramePermissions": []
+}
